@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnnCharts</string>
+    <string name="titleEntry">title</string>
+    <string name="info">Info</string>
+</resources>
